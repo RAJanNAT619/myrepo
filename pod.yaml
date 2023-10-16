@@ -10,7 +10,7 @@ spec:
   ports:
     - name: http
       protocol: TCP
-      port: 80
+      port: 81
 ---
 apiVersion: apps/v1
 kind: Deployment
