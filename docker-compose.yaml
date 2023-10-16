@@ -10,4 +10,4 @@ services:
             dockerfile: Dockerfile
             target: base
         ports:
-            - "${PORT}:81"
+            - "${PORT}:80"
